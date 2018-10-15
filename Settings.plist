@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>true</string>
+		<key>Key</key>
+		<string>popQuickFilters</string>
+		<key>Title</key>
+		<string>Pop quick filters</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>32</string>
+		<key>Key</key>
+		<string>avatarSize</string>
+		<key>MaximumValue</key>
+		<integer>64</integer>
+		<key>MinimumValue</key>
+		<integer>16</integer>
+		<key>Title</key>
+		<string>Avatar size</string>
+		<key>Type</key>
+		<string>Slider</string>
+	</dict>
+</array>
+</plist>
